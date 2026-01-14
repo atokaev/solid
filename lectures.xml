@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Meine privaten Aufnahmen</title>
-    <link>https://tokaev.github.io/lectures</link>
-    <description>Lectures Vick</description>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  hannel>
+    <title>Steuer-Seminar</title>
+    <link>https://www.dropbox.com/scl/fo/xxjlp13r67w4hp78ab9go/ANnAp0QpbdWgNKo3bK7kNnA?rlkey=e78obpvd10j497guhrepf1knm&amp;dl=0</link>
+    <language>de-de</language>
+    <description>Audio-Mitschnitte des Steuer-Seminars von Dimitri Mass</description>
+    <itunes:author>Dimitri Mass (KvDM)</itunes:author>
 
     <item>
-      <title>Episode 1</title>
-      <enclosure url="https://tokaev.github.io/lectures/episode1.mp3"
-                 length="12345678"
-                 type="audio/mpeg"/>
-      <guid>episode1</guid>
+      <title>1. Welcome – bis was dich erwartet</title>
+      <enclosure url="https://www.dropbox.com/scl/fo/xxjlp13r67w4hp78ab9go/AAbDuDWy3scAaFcrViBm3AM/1.Welcome-bis%20was%20dich%20erwartet.mp3?rlkey=e78obpvd10j497guhrepf1knm&amp;dl=1" length="379247042" type="audio/mpeg"/>
+      <guid>1-welcome-bis-was-dich-erwartet</guid>
+      <pubDate>Sat, 03 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>2. was von dir erwartet wird</title>
+      <enclosure url="https://www.dropbox.com/scl/fo/xxjlp13r67w4hp78ab9go/AMLYv3umiuf0xG02BdHcu_w/2.was%20von%20dir%20erwartet%20wird.mp3?rlkey=e78obpvd10j497guhrepf1knm&amp;dl=1" length="193840333" type="audio/mpeg"/>
+      <guid>2-was-von-dir-erwartet-wird</guid>
+      <pubDate>Sun, 04 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>3. Woche 1 bis Steuerfallen 1. Teil</title>
+      <enclosure url="https://www.dropbox.com/scl/fo/xxjlp13r67w4hp78ab9go/AM4eh5fwFFlUC00QtqGcn6s/3.Woche%201%20bis%20Steuerfallen%201.%20Teil.mp3?rlkey=e78obpvd10j497guhrepf1knm&amp;dl=1" length="420700365" type="audio/mpeg"/>
+      <guid>3-woche-1-bis-steuerfallen-1-teil</guid>
+      <pubDate>Sun, 04 Jul 2021 13:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>4. Woche 1 bis Steuerfallen 2. Teil</title>
+      <enclosure url="https://www.dropbox.com/scl/fo/xxjlp13r67w4hp78ab9go/AMUv7LGBS8BE1o9ZmnDT6k0/4.Woche_1%20bis%20Steuerfallen%202.%20Teil.mp3?rlkey=e78obpvd10j497guhrepf1knm&amp;dl=1" length="171829453" type="audio/mpeg"/>
+      <guid>4-woche-1-bis-steuerfallen-2-teil</guid>
+      <pubDate>Sun, 04 Jul 2021 14:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>5. Woche 1 Steuergrundlagen allgemein</title>
+      <enclosure url="https://www.dropbox.com/scl/fo/xxjlp13r67w4hp78ab9go/AG1jL_hgXehZuhxIYnEkKcs/5.Woche_1_Steuergrundlagen%20allgemein.mp3?rlkey=e78obpvd10j497guhrepf1knm&amp;dl=1" length="388278149" type="audio/mpeg"/>
+      <guid>5-woche-1-steuergrundlagen-allgemein</guid>
+      <pubDate>Mon, 05 Jul 2021 12:00:00 +0200</pubDate>
     </item>
 
   </channel>
