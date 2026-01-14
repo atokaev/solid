@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Meine privaten Aufnahmen</title>
+    <link>https://tokaev.github.io/lectures</link>
+    <description>Lectures Vick</description>
+
+    <item>
+      <title>Episode 1</title>
+      <enclosure url="https://tokaev.github.io/lectures/episode1.mp3"
+                 length="12345678"
+                 type="audio/mpeg"/>
+      <guid>episode1</guid>
+    </item>
+
+  </channel>
+</rss>
